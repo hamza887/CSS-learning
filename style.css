@@ -1,6 +1,4 @@
 
-
-
 body{
     background-image: url('https://images.unsplash.com/photo-1622495506467-86a4840011c0?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80'), url('https://images.unsplash.com/photo-1622495806758-5d8f62817275?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=663&q=80');
     background-blend-mode: difference;
