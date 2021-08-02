@@ -1,15 +1,25 @@
 
-div{
-    width: 400px;
-    margin: 200px auto;
-    height: 200px;
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 30px;
-    border-bottom-color: green;
-    border: solid aqua;
-}
-
 .box{
-    background-color: red;
-    padding: 10px;
+    margin: 50px ;
+     width: 55px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}
+.item1{
+    background-color: rgb(62, 62, 184);
+    margin: 2px;
+}
+.item2{
+    background-color: rgb(228, 248, 48);
+    margin: 2px;
+}
+.item3{
+    background-color: rgb(52, 204, 141);
+    margin: 2px;
+}
+.item4{
+    background-color: rgb(70, 214, 34);
+    margin: 2px;
 }
