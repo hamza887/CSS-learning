@@ -1,14 +1,15 @@
 
 div{
-    width: 300px;
-    height :200px;
-    float: left;
+    width: 400px;
+    margin: 200px auto;
+    height: 200px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-color: green;
+    border: solid aqua;
 }
+
 .box{
     background-color: red;
-    padding-left: 20px;
-}
-.box1{
-    background-color: green;
-    margin-left: 20px;
+    padding: 10px;
 }
