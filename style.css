@@ -1,17 +1,16 @@
-*{
-    font-size: 23px;
-}
-.main{
-    border: 5px solid red;
-    width: 900px;
-    margin: 10px 35px 20px 20px;
+.box-1{
+    border: 2px solid rgb(9, 9, 14);
    
+}.box-2{
+    border: 2px solid rgb(9, 9, 14);
+ 
 }
-.main article{
-    width: 850px;
-    border: 5px solid green;
-    margin: 10px;
-    padding: 10px;
-  
+.box-3{
+    border: 2px solid rgb(9, 9, 14);
+    
+}
+
+.container{
+    display: flex;
 
 }
