@@ -1,4 +1,4 @@
-.col-8,.col-4,.col-5{
+.col-8,.col-4,.col-5 .container{
     border: 1px solid black;
 }
 .row .col {
@@ -40,4 +40,44 @@
     padding: 4px;
     font-weight: 500;
     font-size: 20px;
+}
+ /* WEBSTIE LEC 5 */
+
+ body{
+     padding: 5%;
+ }
+.container{
+    border: 5px solid black;
+}
+
+.heading{
+    background-color: rgb(228, 170, 95);
+    padding: 20px;
+}
+
+.mynavbar{
+    background-color: rgb(217, 233, 148);
+}
+.mynavbar li{
+    list-style: none;
+    padding: 10px;
+}
+.mynavbar li::after{
+    content: '    |';
+}
+.mynavbar li:last-child::after{
+    content: none;
+}
+
+.sub-heading h1{
+    padding: 20px;
+}
+.sub-heading{
+    height: 60vh;
+    font-weight: 600;
+}
+
+.sidenav li{
+    padding: 10px;
+    font-weight: 600;
 }
