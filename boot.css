@@ -76,8 +76,17 @@
     height: 60vh;
     font-weight: 600;
 }
+.sidenav{
+    height: 60vh;
+    background-color: rgb(93, 186, 248);
+
+}
 
 .sidenav li{
     padding: 10px;
     font-weight: 600;
+}
+.footer {
+    
+    background-color: red;
 }
