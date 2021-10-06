@@ -4,6 +4,9 @@
 .row{
     border: 3px solid green;
 }
+.col-1{
+    border: 3px solid red;
+}
 
 #websitename{
     background-color: red;
