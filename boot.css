@@ -1,18 +1,20 @@
 .col-8,.col-4,.col-5{
     border: 1px solid black;
 }
-.row{
+.row .col {
     border: 3px solid green;
 }
-.col-1{
+.col-1 .col-6{
     border: 3px solid red;
 }
 
 #websitename{
     background-color: red;
+    
 }
 .green{
     background-color: rgb(209, 248, 150);
+    border: 3px solid green;
 }
 .red{
     background-color: rgb(179, 37, 68);
