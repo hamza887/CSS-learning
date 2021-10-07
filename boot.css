@@ -1,36 +1,22 @@
-*{
-    box-sizing: border-box;
+.row{
+    height: 90vh;
 }
 
-.container{
-    border: 5px solid black;
-    height: 70vh;
-    margin-top: 50px;
+.pink{
+    background-color: pink;
 }
 
-.theheight{
-    padding-top: 130px;
-    font-weight: 600;
-    font-size: 24px;
-    background-color: rgb(182, 173, 173);
-    height: 69vh;
-
-}
-.theheight li{
-    list-style: none;
+.green{
+    background-color:green;
 }
 
-.col{
-    border: 7px solid grey;
-    margin: 10px;
-    height: 25vh;
+.aqua{
+    background-color: aqua;
 }
-.mycol{
-    height: 35vh;
-    margin-top: 30px;
+
+.red{
+    background-color:red;
 }
-.inner-box{
-    background-color:rgb(104, 91, 91);
-    height: 20vh;
-    margin: 10px 20px;
+.myborder{
+    border: 4px solid black;
 }
