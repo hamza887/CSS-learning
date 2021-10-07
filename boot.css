@@ -30,9 +30,9 @@
 }
 
 .theheight{
-    padding-top: 60%;
+    /* padding-top: 60%; */
     height: 80vh;
-    padding-left: 30px;
+    /* padding-left: 30px; */
 }
 
 .theheight li{
