@@ -1,97 +1,36 @@
-.col-8,.col-4,.col-5 .container{
-    border: 1px solid black;
-}
-.row .col {
-    border: 3px solid green;
-}
-.col-1 .col-6{
-    border: 3px solid red;
+*{
+    box-sizing: border-box;
 }
 
-#websitename{
-    background-color: red;
-    
-}
-.green{
-    background-color: rgb(209, 248, 150);
-    border: 3px solid green;
-}
-.red{
-    background-color: rgb(179, 37, 68);
-}
-.pink{
-    background-color: rgb(247, 144, 239);
-}
-.aqua{
-    background-color:aqua;
-}
-.mygrey{
-  background-color: rgb(216, 204, 204);
+.container{
+    border: 5px solid black;
+    height: 70vh;
+    margin-top: 50px;
 }
 
 .theheight{
-    /* padding-top: 60%; */
-    height: 80vh;
-    /* padding-left: 30px; */
-}
+    padding-top: 130px;
+    font-weight: 600;
+    font-size: 24px;
+    background-color: rgb(182, 173, 173);
+    height: 69vh;
 
+}
 .theheight li{
     list-style: none;
-    padding: 4px;
-    font-weight: 500;
-    font-size: 20px;
-}
- /* WEBSTIE LEC 5 */
-
- body{
-     padding: 5%;
- }
-.container{
-    border: 5px solid black;
-}
-
-.heading{
-    background-color: rgb(228, 170, 95);
-    padding: 20px;
-}
-
-.mynavbar{
-    background-color: rgb(217, 233, 148);
-}
-.mynavbar li{
-    list-style: none;
-    padding: 10px;
-}
-.mynavbar li::after{
-    content: '    |';
-}
-.mynavbar li:last-child::after{
-    content: none;
-}
-
-.sub-heading h1{
-    padding: 20px;
-}
-.sub-heading{
-    height: 60vh;
-    font-weight: 600;
-    overflow: scroll;
-}
-.sidenav{
-    height: 60vh;
-    background-color: rgb(93, 186, 248);
-
-}
-
-.sidenav li{
-    padding: 10px;
-    font-weight: 600;
-}
-.footer {
-    
-    background-color: red;
 }
 
 .col{
+    border: 7px solid grey;
+    margin: 10px;
+    height: 25vh;
+}
+.mycol{
+    height: 35vh;
+    margin-top: 30px;
+}
+.inner-box{
+    background-color:rgb(104, 91, 91);
     height: 20vh;
+    margin: 10px 20px;
 }
