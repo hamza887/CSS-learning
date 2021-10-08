@@ -96,6 +96,7 @@ a:hover{
     background-size: cover;
     padding: 50px 0;
     position: relative;
+    border-radius: 50%;
 }
 .testimonials::before{
     background: rgba(52, 73, 94,0.9);
@@ -112,7 +113,7 @@ a:hover{
 
 .testimonial img {
   border: 1px solid black;
-  border-radius: 4px;
+  border-radius: 50%;
   padding: 1px;
   width: 70px;
 }
@@ -195,4 +196,39 @@ a:hover{
 }
 .sociabuttons{
     padding-left: 190px;
+}
+
+@media (max-width: 768px){
+    .testimonial{
+        text-align: center;
+    }
+    .news-button{
+        margin-bottom: 20px;
+    }
+    .newsimg{
+         border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 1px;
+  width: 450px;
+    }
+    .footer-section h3{
+        text-align: center;
+    }
+    .footer-section h3::after{
+ background: #e74c3c;
+    content: "";
+    display: block;
+    width: 70px;
+    height: 3px;
+    margin: 10px 300px;
+    text-align: center;
+}
+    .socialme p{
+        margin-left: 30%;
+    }
+    .sociabuttons {
+        /* text-align: center; */
+        margin-left: 15%;
+
+    }
 }
