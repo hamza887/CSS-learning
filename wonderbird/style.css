@@ -1,6 +1,7 @@
 
 /* NAVBAR */
 
+
 .header{
     color: #fff;
     background-color: #e74c3c;
@@ -136,8 +137,62 @@ a:hover{
     font-weight: 600;
 }
 .news-button{
-    text-align: end;
     color: #e74c3c;
 
     /* background-color:red; */
+}
+.containe{
+    padding-left: 30px;
+}
+
+/* FOOTER */
+.footer{
+    /* margin: 30px; */
+    /* margin-left: 30px; */
+    background-color: #34495e;
+    color: white;
+    padding: 20px 0;
+    padding-left: 20px;
+
+}
+/* .footer-section{
+    margin: 30px;
+} */
+
+.footer-section h3::after{
+ background: #e74c3c;
+    content: "";
+    display: block;
+    width: 70px;
+    height: 3px;
+    margin: 5px 5px;
+}
+
+.footer-section p{
+    margin-bottom: 2px;
+}
+
+/* .sociabuttons i{
+  background-color: #fff;
+} */
+.mysocial{
+    /* background-color: #fff;
+     */
+    background-color: #1b2631;
+    color: white;
+}
+.mysocial p {
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-left: 30px;
+}
+.sociabuttons i{
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-left: 13px;
+    font-size: 20px;
+    
+}
+.sociabuttons{
+    padding-left: 150px;
 }
