@@ -8,5 +8,11 @@
 
  /* /////////////// NAVBAR //////////////////////// */
 
-
+/* .mynav a{
+    background-color: red;
+    color: green;
+} */
+.navii:hover{
+    color: pink !important;
+}
  
