@@ -295,3 +295,22 @@ position: fixed;
  .heading9 .myheading9{
      margin-top: 80px;
  }
+
+ 
+
+ .myheading9 a{
+     border-bottom: 1px solid red;
+     color: black;
+ }
+ .heading9{
+     text-align: center;
+ }
+
+ .heading9 h2{
+     font-size: 30px;
+    /* margin-left: 30px; */
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    /* text-align: center; */
+ }
