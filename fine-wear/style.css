@@ -287,7 +287,6 @@ position: fixed;
      margin-top: 30px;
      margin-right: 40px;
     margin-left: 40px; 
-    height: 80vh;
     background-color: #ffffff;
     color: black;
  }
@@ -296,7 +295,9 @@ position: fixed;
      margin-top: 80px;
  }
 
- 
+ .myheading9{
+     margin-bottom: 30px;
+ }
 
  .myheading9 a{
      border-bottom: 1px solid red;
@@ -311,7 +312,6 @@ position: fixed;
     /* margin-left: 30px; */
     font-weight: 500;
     letter-spacing: 2px;
-    margin-bottom: 20px;
     /* text-align: center; */
  }
 
@@ -376,3 +376,7 @@ position: fixed;
     text-decoration: none;
     list-style-type: none;
 }
+
+
+/* MOBILE SCREEN */
+
