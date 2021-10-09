@@ -179,6 +179,8 @@ position: fixed;
   right:0;
   margin:auto;
 }
+
+
 .console-underscore {
    display:inline-block;
   position:relative;
@@ -195,4 +197,26 @@ position: fixed;
     height: 100vh;
     background: url(/fine-wear/images/heading2.jpeg) no-repeat 0 0;
     background-size: cover;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(5px);
 }
+
+.heading2 .myheading2 {
+    /* background-color:red; */
+    margin: 170px;
+    /* margin-top: 100px; */
+    
+}
+
+ .myheading2 h1{
+     font-size: 53px;
+    font-weight: 600;
+    letter-spacing: 2px;
+ }
+
+ .heading2 a{
+     color: #ffffff;
+     font-size: 1rem;
+     cursor: pointer;
+     text-decoration: none;
+ }
