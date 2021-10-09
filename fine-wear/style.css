@@ -247,3 +247,51 @@ position: fixed;
     background: url(/fine-wear/images/heading5.jpeg) no-repeat 0 0;
     background-size: cover;
  }
+
+ .heading5-color h1{
+     color: black;
+ }
+
+ .heading5-color a{
+     color: black;
+ }
+
+  .heading6{
+      margin-top: 30px;
+     margin-right: 40px;
+    margin-left: 40px; 
+    height: 100vh;
+    background: url(/fine-wear/images/heading6.jpeg) no-repeat 0 0;
+    background-size: cover;
+ }
+
+  .heading7{
+      margin-top: 30px;
+     margin-right: 40px;
+    margin-left: 40px; 
+    height: 100vh;
+    background: url(/fine-wear/images/heading7.jpeg) no-repeat 0 0;
+    background-size: cover;
+ }
+
+ .heading8{
+      margin-top: 30px;
+     margin-right: 40px;
+    margin-left: 40px; 
+    height: 100vh;
+    background: url(/fine-wear/images/heading8.jpeg) no-repeat 0 0;
+    background-size: cover;
+ }
+
+ .heading9{
+     margin-top: 30px;
+     margin-right: 40px;
+    margin-left: 40px; 
+    height: 100vh;
+    background-color: #ffffff;
+    color: black;
+ }
+
+ .heading9 .myheading9{
+     margin-top: 80px;
+ }
