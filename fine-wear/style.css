@@ -408,6 +408,9 @@ position: fixed;
     padding-right: 20px;
     cursor: pointer;
 }
+.footer p:hover{
+    color: green;
+}
 .social {
     text-align: end;
     /* padding-right: 10px; */
@@ -417,6 +420,9 @@ position: fixed;
     color: white;
     text-decoration: none;
     list-style-type: none;
+}
+.social a:hover{
+    color: green;
 }
 
 
