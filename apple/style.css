@@ -311,7 +311,7 @@ a:hover{
 
 .airtag{
      margin-right: 12px;
-    background: url("images/ipadbackground.jpg") no-repeat ;
+    background: url("images/airtag-background.jpg") no-repeat ;
     height: 80vh;
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
@@ -388,18 +388,21 @@ a:hover{
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
     text-align: center;
+    display: block;
 }
 
 .apple-tv img{
-    padding-top: 40px;
-    padding-bottom: 20px;
-    /* width: 200px; */
+    margin-top: 40px;
+    /* padding-bottom: 20px; */
+    width: 150px;
 }
 
  .apple-tv a{
-    font-size: 20px; 
+    font-size: 17px; 
+    display: block;
+    padding-left: 60px;
     /* text-align: end; */
-    margin-top: 500px;
-    background-color: green;
-    height: 600px;
+    margin-top: 150px;
+    /* background-color: green; */
+
 }
