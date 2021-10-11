@@ -4,13 +4,13 @@
 
 a{
     list-style: none;
-    color: #06c;
+    color: #0065cc;
     text-decoration: none;
     /* color: chartreuse; */
 }
 a:hover{
     text-decoration: none;
-    color: #06c;
+    color: #0065cc;
 }
 
 .mynav{
@@ -193,3 +193,82 @@ a:hover{
     padding-left: 40px;
 }
 
+/* ////////  FITNESS & IPAD /////// */
+
+.fitness-ipad{
+    margin-top: 15px;
+}
+
+/* fitness */
+
+.fitness{
+    margin-left: 10px;
+     background-color:green;
+    background: url("images/fitness-background.jpg") no-repeat ;
+    height: 80vh;
+    background-size: 700px 700px;
+    background-position:right 55% bottom 45%;
+}
+.fitness img{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 200px;
+}
+
+.fitness p{
+    line-height: 8px;
+    font-size: 19px;
+}
+
+.fitness a{
+    font-size: 20px;
+
+}
+
+.fitness a:hover{
+    text-decoration: underline ;
+
+}
+
+.fitness a:last-child{
+    padding-left: 40px;
+}
+
+
+
+
+
+/* //// IPAD */
+
+.ipad{
+    margin-right: 12px;
+    background: url("images/ipadbackground.jpg") no-repeat ;
+    height: 80vh;
+    background-size: 700px 700px;
+    background-position:right 55% bottom 45%;
+}
+
+.ipad img{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 200px;
+}
+
+.ipad p{
+    line-height: 8px;
+    font-size: 19px;
+}
+
+.ipad a{
+    font-size: 20px;
+
+}
+
+.ipad a:hover{
+    text-decoration: underline ;
+
+}
+
+.ipad a:last-child{
+    padding-left: 40px;
+}
