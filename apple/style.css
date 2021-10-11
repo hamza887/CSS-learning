@@ -341,3 +341,65 @@ a:hover{
 .airtag a:last-child{
     padding-left: 40px;
 }
+
+/* APPLE CARD AND APPLE TV */
+
+/* apple card */
+
+.apple-card{
+    margin-left: 10px;
+     background-color:green;
+    background: url("images/applecard-background.jpg") no-repeat ;
+    height: 80vh;
+    background-size: 700px 700px;
+    background-position:right 55% bottom 45%;
+}
+.apple-card img{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 200px;
+}
+
+.apple-card p{
+    line-height: 8px;
+    font-size: 19px;
+}
+
+.apple-card a{
+    font-size: 20px;
+
+}
+
+.apple-card a:hover{
+    text-decoration: underline ;
+
+}
+
+.apple-card a:last-child{
+    padding-left: 40px;
+}
+
+/* apple tv  */
+
+.apple-tv{
+    margin-right: 12px;
+    background: url("images/apple.background.jpg") no-repeat ;
+    height: 80vh;
+    background-size: 700px 700px;
+    background-position:right 55% bottom 45%;
+    text-align: center;
+}
+
+.apple-tv img{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    /* width: 200px; */
+}
+
+ .apple-tv a{
+    font-size: 20px; 
+    /* text-align: end; */
+    margin-top: 500px;
+    background-color: green;
+    height: 600px;
+}
