@@ -152,4 +152,44 @@ a:hover{
     padding-left: 40px;
 }
 
+/* /// APPLE WATCH HEADING3 */
+
+.apple-watch{
+    margin-top: 10px;
+    background: url("images/applewatchbackground.jpg") no-repeat ;
+    height: 90vh;
+    background-size: 1500px 700px;
+    background-position:right 55% bottom 45%;
+}
+.myapple-watch{
+    padding-top: 50px;
+}
+
+.myapple-watch img{
+    width: 200px;
+}
+
+.myapple-watch h2{
+    padding-top: 20px;
+    font-weight: 330;
+    font-size: 26px;
+}
+.myapple-watch p{
+    font-weight: 250;
+    color: gray;
+}
+
+.myapple-watch a{
+    font-size: 20px;
+
+}
+
+.myapple-watch a:hover{
+    text-decoration: underline ;
+
+}
+
+.myapple-watch a:last-child{
+    padding-left: 40px;
+}
 
