@@ -129,7 +129,27 @@ a:hover{
     line-height: 35px;
 }
 .myheading2 h1{
-    
+    font-size: 55px;
+    font-weight: 600;
+    color: white;
+}
+.myheading2 p{
+    color: #f9bde7;
+    font-size: 25px;
+}
+
+.myheading2 a{
+    font-size: 20px;
+
+}
+
+.myheading2 a:hover{
+    text-decoration: underline ;
+
+}
+
+.myheading2 a:last-child{
+    padding-left: 40px;
 }
 
 
