@@ -109,3 +109,27 @@ a:hover{
 .myheading1 a:last-child{
     padding-left: 40px;
 }
+
+
+/* //////////// HEADING 2 ////////////////////////*/
+
+.heading2{
+    margin-top: 20px;
+    background: url("images/image2.jpg") no-repeat ;
+    /* background-size: center; */
+    height: 90vh;
+    background-size: 1500px 1000px;
+    background-position:right 55% bottom 45%;
+    /* max-width: 200%; */
+    /* width: 1900px; */
+}
+
+.myheading2{
+     padding-top: 45px;
+    line-height: 35px;
+}
+.myheading2 h1{
+    
+}
+
+
