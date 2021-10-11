@@ -272,3 +272,72 @@ a:hover{
 .ipad a:last-child{
     padding-left: 40px;
 }
+
+/* IMAC AND AIRTAG */
+
+.imac{
+    margin-left: 10px;
+     background-color:green;
+    background: url("images/imac-backgroud.jpg") no-repeat ;
+    height: 80vh;
+    background-size: 700px 700px;
+    background-position:right 55% bottom 45%;
+}
+
+.imac h1{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    /* width: 200px; */
+}
+
+.imac p{
+    line-height: 8px;
+    font-size: 19px;
+}
+
+.imac a{
+    font-size: 20px;
+
+}
+
+.imac a:hover{
+    text-decoration: underline ;
+
+}
+
+.imac a:last-child{
+    padding-left: 40px;
+}
+
+.airtag{
+     margin-right: 12px;
+    background: url("images/ipadbackground.jpg") no-repeat ;
+    height: 80vh;
+    background-size: 700px 700px;
+    background-position:right 55% bottom 45%;
+}
+
+.airtag img{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 100px;
+}
+
+.airtag p{
+    line-height: 8px;
+    font-size: 19px;
+}
+
+.airtag a{
+    font-size: 20px;
+
+}
+
+.airtag a:hover{
+    text-decoration: underline ;
+
+}
+
+.airtag a:last-child{
+    padding-left: 40px;
+}
