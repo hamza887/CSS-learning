@@ -68,7 +68,7 @@ a:hover{
 /* ////////////// HEADING 1 ///////////////////////*/
 
 .heading1{
-    background: url("Assets/image1.jpg") no-repeat ;
+    background: url("images/image1.jpg") no-repeat ;
     /* background-size: center; */
     height: 90vh;
     background-size: 1800px 1100px;
@@ -115,7 +115,7 @@ a:hover{
 
 .heading2{
     margin-top: 20px;
-    background: url("Assets/image2.jpg") no-repeat ;
+    background: url("images/image2.jpg") no-repeat ;
     /* background-size: center; */
     height: 90vh;
     background-size: 1500px 1000px;
@@ -156,7 +156,7 @@ a:hover{
 
 .apple-watch{
     margin-top: 10px;
-    background-image: url("Assets/applewatchbackground.jpg") no-repeat ;
+    background: url("images/applewatchbackground.jpg") no-repeat ;
     height: 90vh;
     background-size: 1500px 700px;
     background-position:right 55% bottom 45%;
@@ -204,7 +204,7 @@ a:hover{
 .fitness{
     margin-left: 10px;
      background-color:green;
-    background: url("/Assets/fitness-background.jpg") no-repeat ;
+    background: url("images/fitness-background.jpg") no-repeat ;
     height: 80vh;
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
@@ -242,7 +242,7 @@ a:hover{
 
 .ipad{
     margin-right: 12px;
-    background: url("/Assets/ipadbackground.jpg") no-repeat ;
+    background: url("images/ipadbackground.jpg") no-repeat ;
     height: 80vh;
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
@@ -278,7 +278,7 @@ a:hover{
 .imac{
     margin-left: 10px;
      background-color:green;
-    background: url("/Assets/imac-backgroud.jpg") no-repeat ;
+    background: url("images/imac-backgroud.jpg") no-repeat ;
     height: 80vh;
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
@@ -311,7 +311,7 @@ a:hover{
 
 .airtag{
      margin-right: 12px;
-    background: url("/Assets/airtag-background.jpg") no-repeat ;
+    background: url("images/airtag-background.jpg") no-repeat ;
     height: 80vh;
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
@@ -349,7 +349,7 @@ a:hover{
 .apple-card{
     margin-left: 10px;
      background-color:green;
-    background: url("/Assets/applecard-background.jpg") no-repeat ;
+    background: url("images/applecard-background.jpg") no-repeat ;
     height: 80vh;
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
@@ -383,7 +383,7 @@ a:hover{
 
 .apple-tv{
     margin-right: 12px;
-    background: url("/Assets/apple.background.jpg") no-repeat ;
+    background: url("images/apple.background.jpg") no-repeat ;
     height: 80vh;
     background-size: 700px 700px;
     background-position:right 55% bottom 45%;
